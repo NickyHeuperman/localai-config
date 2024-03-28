@@ -1,7 +1,7 @@
 name: laser-dolphin-mixtral-2x7b-dpo-q4-K-M
 mmap: true
 parameters:
-  model: laser-dolphin-mixtral-2x7b-dpo.Q4_K_M.gguf
+  model: /models/laser-dolphin-mixtral-2x7b-dpo.Q4_K_M.gguf
   temperature: 0.2
   top_k: 40
   top_p: 0.95
