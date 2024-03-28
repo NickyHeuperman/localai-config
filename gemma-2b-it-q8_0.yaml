@@ -1,7 +1,7 @@
 name: gemma-2b-it-q-8-0
 mmap: true
 parameters:
-  model: gemma-2b-it-q8_0.gguf
+  model: /models/gemma-2b-it-q8_0.gguf
   temperature: 0.2
   top_k: 40
   top_p: 0.95
