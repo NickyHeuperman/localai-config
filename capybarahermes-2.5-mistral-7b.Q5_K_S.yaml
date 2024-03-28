@@ -1,7 +1,7 @@
 name: capybarahermes-2.5-mistral-7b-q5-k-s
 mmap: true
 parameters:
-  model: capybarahermes-2.5-mistral-7b.Q5_K_S.gguf
+  model: /models/capybarahermes-2.5-mistral-7b.Q5_K_S.gguf
   temperature: 0.2
   top_k: 40
   top_p: 0.95
